@@ -1,0 +1,10 @@
+[package]
+name = "realword-warp"
+version = "0.1.0"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/balajisivaraman/realword-warp"
+authors = ["Balaji Sivaraman <balaji@balajisivaraman.com>"]
+
+[dependencies]
+warp = "0.1.0"
